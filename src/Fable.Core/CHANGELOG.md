@@ -1,5 +1,5 @@
 ---
-last_commit_released: c977d78b39225a51c7bd051a1fe363ed0ccbe201
+last_commit_released: 70278ec636b7f948a6ba3d215b36a3974de89edc
 ---
 
 # Changelog
@@ -8,6 +8,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## 5.3.0 - 2026-09-24
+
+### 🚀 Features
+
+* *(dart)* Add `Async` runtime and `Future` interop for dart (#4978) ([b5a337d0](https://github.com/goswinr/Fable/commit/b5a337d0f71b2b1ae91516b8be8a65c7cadc9953))
+
+<strong><small>[View changes on Github](https://github.com/goswinr/Fable/compare/c977d78b39225a51c7bd051a1fe363ed0ccbe201..70278ec636b7f948a6ba3d215b36a3974de89edc)</small></strong>
 
 ## 5.2.0 - 2026-06-30
 
